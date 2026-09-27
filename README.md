@@ -84,10 +84,6 @@ O arquivo gerado é `docs/relatorio_tecnico.pdf`. O roteiro de gravação com de
 
 ```text
 data/processes.json          Carga de trabalho MedControl
-docs/relatorio_tecnico.md    Fonte do relatório
-docs/relatorio_tecnico.pdf   Relatório exportado
-docs/roteiro_video.md        Roteiro para vídeo de até 4 minutos
-scripts/generate_report.py   Exportador Markdown -> PDF
 src/models.py                Modelo e validação de processos
 src/schedulers.py            FCFS, SJF, Round Robin, Prioridade e métricas
 src/memory.py                FIFO, LRU e Optimal
