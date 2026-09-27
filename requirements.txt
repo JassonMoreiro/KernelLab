@@ -1,0 +1,2 @@
+# Required only to export docs/relatorio_tecnico.md as PDF.
+reportlab>=4.2,<6
